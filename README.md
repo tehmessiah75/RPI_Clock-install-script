@@ -86,7 +86,7 @@ ssh your_username@your_pi_ip
 ### 3. Download and run the script
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/setup-waveshare-clock.sh
+wget https://raw.githubusercontent.com/tehmessiah75/RPI_Clock-install-script/main/setup-waveshare-clock.sh
 chmod +x setup-waveshare-clock.sh
 sudo ./setup-waveshare-clock.sh
 ```
